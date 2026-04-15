@@ -1,6 +1,6 @@
-# Desempenho Escolar e Consumo de Álcool
+# Desempenho Escolar 
 
-Análise exploratória do dataset **Student Alcohol Consumption**, coletado em duas escolas secundárias de Portugal durante o ano letivo de 2005–2006.
+Análise exploratória dos dados coletados de duas escolas secundárias de Portugal durante o ano letivo de 2005–2006.
 
 **Fonte:** [Kaggle — Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data)  
 **Arquivo:** `student-mat.csv` (disciplina de Matemática)  
