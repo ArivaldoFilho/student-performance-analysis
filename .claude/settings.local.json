@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; nb = json.load\\(open\\('c:/Users/ariva/Documents/Pessoal/faculdade/inteligencia_artificial/pbl_4/analise_exploratoria.ipynb'\\)\\); [print\\(i, c['cell_type'], repr\\(c['source'][:1] if c['source'] else []\\)\\) for i, c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(python -c \"import json; nb = json.load\\(open\\('c:/Users/ariva/Documents/Pessoal/faculdade/inteligencia_artificial/pbl_4/analise_exploratoria.ipynb', encoding='utf-8'\\)\\); [print\\(i, c['cell_type'], repr\\(''.join\\(c['source']\\)[:80]\\)\\) for i, c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(python -c \"import json; nb = json.load\\(open\\('c:/Users/ariva/Documents/Pessoal/faculdade/inteligencia_artificial/pbl_4/analise_exploratoria.ipynb', encoding='utf-8'\\)\\); [print\\(i, c['cell_type'], repr\\(''.join\\(c['source']\\)[:100]\\)\\) for i, c in enumerate\\(nb['cells']\\)]\")"
+    ]
+  }
+}
