@@ -16,6 +16,7 @@ Os dados combinam informações escolares (notas, faltas, reprovações) com con
 
 | Coluna | Descrição |
 |--------|-----------|
+| `id_aluno` | Identificador do aluno |
 | `escola` | Escola do aluno: GP ou MS |
 | `sexo` | F = Feminino, M = Masculino |
 | `idade` | Idade do aluno (15–22 anos) |
