@@ -81,14 +81,6 @@ Alunos com menor consumo de álcool nos fins de semana (nível 1) apresentam as 
 
 ---
 
-### Faltas vs Nota Média
-
-![Faltas vs nota](graficos/faltas_vs_nota.png)
-
-Alunos sem nenhuma falta têm a maior nota média. O desempenho cai progressivamente conforme as faltas aumentam, sendo mais acentuado acima de 10 faltas.
-
----
-
 ## Estrutura do Projeto
 
 ```
